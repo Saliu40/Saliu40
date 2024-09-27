@@ -6,7 +6,7 @@ on: workflow_dispatch #this is our event trigger which must be define
 #we define our job
 jobs: #here must be empty if not it will trow an  error
    my_job: #this is the name of this job
-      runs-on: window-latest #definning the runner, there are many different types of runner that can be used
+      runs-on: windows-latest #definning the runner, there are many different types of runner that can be used
       #what comes next is definning our steps
       steps: 
         - name: print greetings #adding the list of tasks now to be carried out

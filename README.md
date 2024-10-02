@@ -36,9 +36,10 @@ SoftSkilss us as: Problem-Solving, Collaborations, Adaptability, and Core skills
 
 
 ### Projects
-- [Project 1: Kubernetes Cluster Setup Using Minikube](https://github.com/Saliu40/k8s_deployments.git)
-- [Project 2: CI/CD Pipeline](https://github.com/YourUsername/cicd-jenkins-docker)
-- [Project 3: AWS Infrastructure with Terraform](https://github.com/YourUsername/aws-terraform-project)
+- [Project 1: Kubernetes Cluster Setup Using Minikube] (https://github.com/Saliu40/k8s_deployments.git)
+- [Project 2: CI/CD Pipeline] (https://github.com/Saliu40/Udemy.git)
+- [Project 3: AWS Infrastructure with Terraform] (https://github.com/Saliu40/creating_ec2_instance_using_terraform.git)
 - [Project 4: AWS EKS Kubernetes] (https://github.com/Saliu40/About_AWS-EKS.git)
 - [Project 5: CentOs-Setup Using Oracle VM] (https://github.com/Saliu40/CentOs_Installations-Process.git)
-[Project 4: AWS-EKS] (https://github.com/Saliu40/About_AWS-EKS.git)
+- [Project 6: AWS-EKS] (https://github.com/Saliu40/About_AWS-EKS.git)
+- [Project 7: Using Jenkins, and GitHubActions to Run a React-todo-App] (https://github.com/Saliu40/React-todo-app.git)

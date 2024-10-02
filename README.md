@@ -43,3 +43,4 @@ SoftSkilss us as: Problem-Solving, Collaborations, Adaptability, and Core skills
 - [Project 5: CentOs-Setup Using Oracle VM] (https://github.com/Saliu40/CentOs_Installations-Process.git)
 - [Project 6: AWS-EKS] (https://github.com/Saliu40/About_AWS-EKS.git)
 - [Project 7: Using Jenkins, and GitHubActions to Run a React-todo-App] (https://github.com/Saliu40/React-todo-app.git)
+- [Project 8: Built Jenkins Pipeline with Builds saved Using AWS s3Buckets] (https://github.com/Saliu40/Viamagus-Project.git)

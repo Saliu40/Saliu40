@@ -46,3 +46,4 @@ SoftSkilss us as: Problem-Solving, Collaborations, Adaptability, and Core skills
 - [Project 8: Built Jenkins Pipeline with Builds saved Using AWS s3Buckets] (https://github.com/Saliu40/Viamagus-Project.git)
 - [Project 9: Ansible Modules Projects] (https://github.com/Saliu40/Ansible-Configuration-Files.git)
 - [Project 10: Creating a complete Core Banking System on AWS using Terraform on AWS] (https://github.com/Saliu40/t2s-bank-terraform.git)
+- [Project 11: A Complete V-Profile Project Using Vagrant] (https://github.com/Saliu40/V-Profile-Project.git)

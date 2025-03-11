@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saliu40
 -  A DevOps & Cloud Engineer
 - 👀 Activelly Looking for new opportunities in DevOps/Cloud Engineer
-- 🌱 With over 8years in the field of IT, including 3years plus as a DevOps Engineer.
+- 🌱 With over 8years in the field of IT, including 4years plus as a DevOps Engineer.
 - 💞️ My Skills Includes:
 Version Control (Git/GitHub/GitLab/GitActions)
 
@@ -36,14 +36,16 @@ SoftSkilss us as: Problem-Solving, Collaborations, Adaptability, and Core skills
 
 
 ### Projects
-- [Project 1: Kubernetes Cluster Setup Using Minikube] (https://github.com/Saliu40/k8s_deployments.git)
-- [Project 2: CI/CD Pipeline] (https://github.com/Saliu40/Udemy.git)
-- [Project 3: AWS Infrastructure with Terraform] (https://github.com/Saliu40/creating_ec2_instance_using_terraform.git)
-- [Project 4: AWS EKS Kubernetes] (https://github.com/Saliu40/About_AWS-EKS.git)
-- [Project 5: CentOs-Setup Using Oracle VM] (https://github.com/Saliu40/CentOs_Installations-Process.git)
-- [Project 6: AWS-EKS] (https://github.com/Saliu40/About_AWS-EKS.git)
-- [Project 7: Using Jenkins, and GitHubActions to Run a React-todo-App] (https://github.com/Saliu40/React-todo-app.git)
-- [Project 8: Built Jenkins Pipeline with Builds saved Using AWS s3Buckets] (https://github.com/Saliu40/Viamagus-Project.git)
-- [Project 9: Ansible Modules Projects] (https://github.com/Saliu40/Ansible-Configuration-Files.git)
-- [Project 10: Creating a complete Core Banking System on AWS using Terraform on AWS] (https://github.com/Saliu40/t2s-bank-terraform.git)
-- [Project 11: A Complete V-Profile Project Using Vagrant] (https://github.com/Saliu40/V-Profile-Project.git)
+- [Project 1: Git-Jenkins-Docker-Ansible Automation Project] (https://github.com/Saliu40/projCert.git)
+- [Project 2: Git-Jenkins-Docker-Ansible Automasion Project] (https://github.com/Saliu40/projCert.git)
+- [Project 3: Kubernetes Cluster Setup Using Minikube] (https://github.com/Saliu40/k8s_deployments.git)
+- [Project 4: CI/CD Pipeline] (https://github.com/Saliu40/Udemy.git)
+- [Project 5: AWS Infrastructure with Terraform] (https://github.com/Saliu40/creating_ec2_instance_using_terraform.git)
+- [Project 6: AWS EKS Kubernetes] (https://github.com/Saliu40/About_AWS-EKS.git)
+- [Project 7: CentOs-Setup Using Oracle VM] (https://github.com/Saliu40/CentOs_Installations-Process.git)
+- [Project 8: AWS-EKS] (https://github.com/Saliu40/About_AWS-EKS.git)
+- [Project 9: Using Jenkins, and GitHubActions to Run a React-todo-App] (https://github.com/Saliu40/React-todo-app.git)
+- [Project 10: Built Jenkins Pipeline with Builds saved Using AWS s3Buckets] (https://github.com/Saliu40/Viamagus-Project.git)
+- [Project 11: Ansible Modules Projects] (https://github.com/Saliu40/Ansible-Configuration-Files.git)
+- [Project 12: Creating a complete Core Banking System on AWS using Terraform on AWS] (https://github.com/Saliu40/t2s-bank-terraform.git)
+- [Project 13: A Complete V-Profile Project Using Vagrant] (https://github.com/Saliu40/V-Profile-Project.git)

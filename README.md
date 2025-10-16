@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Saliu40
 -  A DevOps & Cloud Engineer
-- 👀 Activelly Looking for new opportunities in DevOps/Cloud Engineer
+-  Ask Me Anything about On-Prem, Hibrid, or Cloud Architecture. 
+-  Am Looking forward to collaborate on any interesting DevOps, Or Cloud Projects.
 - 🌱 With over 8years in the field of IT, including 2years plus as a DevOps Engineer.
 - 💞️ My Skills Includes:
 Version Control (Git/GitHub/GitLab/GitActions)

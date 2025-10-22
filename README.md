@@ -37,7 +37,7 @@ SoftSkilss us as: Problem-Solving, Collaborations, Adaptability, and Core skills
 
 
 ### Projects
--[AWS Fully Manage Cloud CICD Projects Using AWS Services: Bitbucket, AWS S3, AWS SNS, AWS Code Build, AWS Code Artifact, Soar Cloud] (https://github.com/Saliu40/currentJob-vprofile-project.git)
+-[AWS Fully Manage Cloud CICD Projects Using AWS Services: Bitbucket, AWS S3, AWS SNS, AWS Code Build, AWS Code Artifact, Soar Cloud] (https://github.com/Saliu40/currentJob-vprofile-project.git) #Switch to ci-AWS Branch
 - [AWS DevOps Project Using Git, Docker & K8s, Ansible, & Jenkins.] (https://github.com/Saliu40/DevOps_Projects.git)
 - [Project 1: Git-Jenkins-Docker-Ansible Automation Project] (https://github.com/Saliu40/projCert.git)
 - [Project 2: Git-Jenkins-Docker-Ansible Automasion Project] (https://github.com/Saliu40/projCert.git)

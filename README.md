@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saliu40
+- 👋 Hi, I’m Abdullahi Wisdom Saliu
 -  A DevOps & Cloud Engineer
 -  Ask Me Anything about On-Prem, Hibrid, or Cloud Architecture. 
 -  Am Looking forward to collaborate on any interesting DevOps, Or Cloud Projects.
@@ -33,6 +33,14 @@ COllaborations Tools like AzureDevops, GitHub, and GitLab.
 SoftSkilss us as: Problem-Solving, Collaborations, Adaptability, and Core skills such as Communications & Availability.
 
 - 📫 You Can Reach me on +2348169653161, Via LinkedIn www.linkedin.com/in/abdullahi-wisdom-saliu
+## 📜 Certifications
+
+- 🏆 **AWS Certified Solutions Architect – Associate** (Issued: 2025)
+- ☁️ **AWS Certified Cloud Practitioner** (Issued: 2025)
+- 🐳 **Docker Certified Associate (DCA)** *(Planned)*
+- ☸️ **Certified Kubernetes Administrator (CKA)** *(In progress)*
+
+📎 [Verify on Credly](https://www.credly.com/users/your-profile)
 
 
 

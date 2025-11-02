@@ -40,7 +40,7 @@ SoftSkilss us as: Problem-Solving, Collaborations, Adaptability, and Core skills
 - 🐳 **Docker Certified Associate (DCA)** *(Planned)*
 - ☸️ **Certified Kubernetes Administrator (CKA)** *(In progress)*
 
-📎 [Verify on Credly](https://www.credly.com/users/your-profile)
+📎 [Verify on Credly](https://www.credly.com/badges/26ba4e77-f96f-4013-ab8b-9f4b0df72c58/public_url)
 
 
 

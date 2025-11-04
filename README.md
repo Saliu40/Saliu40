@@ -46,7 +46,7 @@ With over **8 years in IT** (including **2+ years as a DevOps Engineer**), I spe
 | 🐳 **Docker Certified Associate (DCA)** | *Planned* |
 | ☸️ **Certified Kubernetes Administrator (CKA)** | *In Progress* |
 
-🧾 [Verify on Credly](https://www.credly.com/) *(once live, replace with your actual Credly profile link)*
+🧾 [Verify on Credly](https://www.credly.com/badges/26ba4e77-f96f-4013-ab8b-9f4b0df72c58/public_url) 
 
 ---
 

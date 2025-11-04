@@ -1,63 +1,76 @@
-- 👋 Hi, I’m Abdullahi Wisdom Saliu
--  A DevOps & Cloud Engineer
--  Ask Me Anything about On-Prem, Hibrid, or Cloud Architecture. 
--  Am Looking forward to collaborate on any interesting DevOps, Or Cloud Projects.
-- 🌱 With over 8years in the field of IT, including 2years plus as a DevOps Engineer.
-- 💞️ My Skills Includes:
-Version Control (Git/GitHub/GitLab/GitActions)
+# 👋 Hi there, I'm **Abdullahi Wisdom Saliu**
 
-(CI/CD) Tools: Experience with CI/CD pipelines using tools like Jenkins, GitLab CLI.
+### 🚀 DevOps & Cloud Engineer | AWS | Terraform | Jenkins | Docker | Kubernetes
 
-Automation & Scripting: Proficient in scripting languages for automation such as Bash, Python, PowerShell, Groovy, Ruby, Yml, etc.
+Passionate about building **automated, scalable, and secure cloud infrastructures**.  
+With over **8 years in IT** (including **2+ years as a DevOps Engineer**), I specialize in **continuous integration, automation, cloud architecture, and infrastructure as code** across **AWS, Azure, and GCP**.
 
-(IaC) Tools: Knowledge of tools like Terraform, AWS CloudFormation, Ansible for managing infrastructure declarative.
+---
 
-Configuration Management: Experience with tools like Chef, Puppet, Ansible, or SaltStack for managing configurations at scale.
+### 💡 Ask Me About
+☁️ Cloud Architecture (On-Prem, Hybrid, or Cloud)  
+⚙️ CI/CD Pipelines • Infrastructure as Code • Containerization • Monitoring • Automation
 
-Containerization: Expertise in Docker and container orchestration platforms like Kubernetes, Docker Swarm.
+---
 
-Monitoring & Logging: Experience with monitoring and logging tools like Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Splunk, and Datadog.
+## 🧰 Tech Stack
 
-Cloud Platforms: Expertise in cloud services from providers like AWS, Google Cloud Platform (GCP), or Microsoft Azure.
+| Category | Tools / Technologies |
+|-----------|---------------------|
+| **Version Control** | Git, GitHub, GitLab, GitHub Actions |
+| **CI/CD** | Jenkins, GitLab CI, GitHub Actions, AWS CodeBuild |
+| **Automation & Scripting** | Bash, Python, PowerShell, Groovy, Ruby, YAML |
+| **Infrastructure as Code (IaC)** | Terraform, AWS CloudFormation, Ansible |
+| **Configuration Management** | Chef, Puppet, Ansible, SaltStack |
+| **Containerization & Orchestration** | Docker, Kubernetes, Docker Swarm |
+| **Monitoring & Logging** | Prometheus, Grafana, ELK Stack, Splunk, Datadog |
+| **Cloud Platforms** | AWS, Azure, GCP |
+| **Virtualization** | VMware, Vagrant, Hyper-V |
+| **Networking** | DNS, HTTP/S, SSL/TLS, VPNs, Firewalls, Load Balancing |
+| **Operating Systems** | Ubuntu, CentOS, Windows Server |
+| **Databases** | MySQL, PostgreSQL, MongoDB |
+| **Collaboration Tools** | Azure DevOps, GitHub, GitLab |
 
-Virtualization: Experience with tools like VMware, Vagrant, or Hyper-V for managing virtual environments.
+---
 
-Networking: Understanding of networking concepts such as DNS, HTTP/S, SSL/TLS, VPNs, firewalls, and load balancing.
+## 🧠 Soft Skills
+💬 Problem-Solving • Collaboration • Adaptability • Communication • Availability  
 
-Operating Systems: Proficient in Using Os Like: CentOs, Ubuntu, & Window Server Admintration.
+---
 
-DataBase Management: understanding Database like MySQL, PostgreSQL, & MongoDB.
+## 🏅 Certifications
+| Certification | Status |
+|---------------|---------|
+| 🏆 **AWS Certified Solutions Architect – Associate** | *Issued: 2025* |
+| ☁️ **AWS Certified Cloud Practitioner** | *Issued: 2025* |
+| 🐳 **Docker Certified Associate (DCA)** | *Planned* |
+| ☸️ **Certified Kubernetes Administrator (CKA)** | *In Progress* |
 
-COllaborations Tools like AzureDevops, GitHub, and GitLab.
+🧾 [Verify on Credly](https://www.credly.com/) *(once live, replace with your actual Credly profile link)*
 
-SoftSkilss us as: Problem-Solving, Collaborations, Adaptability, and Core skills such as Communications & Availability.
+---
 
-- 📫 You Can Reach me on +2348169653161, Via LinkedIn www.linkedin.com/in/abdullahi-wisdom-saliu
-## 📜 Certifications
+## 🧩 Featured Projects
 
-- 🏆 **AWS Certified Solutions Architect – Associate** (Issued: 2025)
-- ☁️ **AWS Certified Cloud Practitioner** (Issued: 2025)
-- 🐳 **Docker Certified Associate (DCA)** *(Planned)*
-- ☸️ **Certified Kubernetes Administrator (CKA)** *(In progress)*
+| Project | Description | Repository |
+|----------|--------------|-------------|
+| **AWS Managed Cloud CI/CD Pipeline** | Full CI/CD automation using Bitbucket, AWS S3, SNS, CodeBuild, and CodeArtifact. | [🔗 View Repo](https://github.com/Saliu40/currentJob-vprofile-project) |
+| **DevOps Project: Git + Docker + K8s + Ansible + Jenkins** | End-to-end CI/CD automation project integrating multiple DevOps tools. | [🔗 View Repo](https://github.com/Saliu40/DevOps_Projects) |
+| **Lift & Shift WebApp on AWS** | Migrated monolithic app to AWS cloud using Terraform and EC2. | [🔗 View Repo](https://github.com/Saliu40/currentJob-vprofile-project) |
+| **Kubernetes Cluster Setup (Minikube)** | Local k8s cluster setup and deployment testing environment. | [🔗 View Repo](https://github.com/Saliu40/k8s_deployments) |
+| **CI/CD Pipeline Automation** | Jenkins-based CI/CD with build artifacts stored in AWS S3. | [🔗 View Repo](https://github.com/Saliu40/Viamagus-Project) |
+| **Terraform Infrastructure Project** | Complete infrastructure provisioning on AWS via Terraform. | [🔗 View Repo](https://github.com/Saliu40/creating_ec2_instance_using_terraform) |
+| **Ansible Modules & Configs** | Collection of Ansible modules for server automation and configuration. | [🔗 View Repo](https://github.com/Saliu40/Ansible-Configuration-Files) |
+| **Core Banking on AWS (Terraform)** | Provisioned core banking infrastructure with Terraform on AWS. | [🔗 View Repo](https://github.com/Saliu40/t2s-bank-terraform) |
+| **V-Profile Project (Vagrant)** | Local environment setup with Vagrant for app simulation. | [🔗 View Repo](https://github.com/Saliu40/V-Profile-Project) |
 
-📎 [Verify on Credly](https://www.credly.com/badges/26ba4e77-f96f-4013-ab8b-9f4b0df72c58/public_url)
+---
 
+## 📫 Let’s Connect
+📧 **Email:** abdullahisaliu21@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/abdullahi-wisdom-saliu](https://www.linkedin.com/in/abdullahi-wisdom-saliu)  
+📱 **Phone:** +234 816 965 3161  
 
+---
 
-### Projects
--[AWS Fully Manage Cloud CICD Projects Using AWS Services: Bitbucket, AWS S3, AWS SNS, AWS Code Build, AWS Code Artifact, Soar Cloud] (https://github.com/Saliu40/currentJob-vprofile-project.git) #Switch to ci-AWS Branch
-- [AWS DevOps Project Using Git, Docker & K8s, Ansible, & Jenkins.] (https://github.com/Saliu40/DevOps_Projects.git)
-- [Project 1: Git-Jenkins-Docker-Ansible Automation Project] (https://github.com/Saliu40/projCert.git)
-- [Project 2: Git-Jenkins-Docker-Ansible Automasion Project] (https://github.com/Saliu40/projCert.git)
-- [Project 3: AWS Lift&Shift Webapp Project] (https://github.com/Saliu40/currentJob-vprofile-project.git)
-- [Project 4: Kubernetes Cluster Setup Using Minikube] (https://github.com/Saliu40/k8s_deployments.git)
-- [Project 5: CI/CD Pipeline] (https://github.com/Saliu40/Udemy.git)
-- [Project 6: AWS Infrastructure with Terraform] (https://github.com/Saliu40/creating_ec2_instance_using_terraform.git)
-- [Project 7: AWS EKS Kubernetes] (https://github.com/Saliu40/About_AWS-EKS.git)
-- [Project 8: CentOs-Setup Using Oracle VM] (https://github.com/Saliu40/CentOs_Installations-Process.git)
-- [Project 9: AWS-EKS] (https://github.com/Saliu40/About_AWS-EKS.git)
-- [Project 10: Using Jenkins, and GitHubActions to Run a React-todo-App] (https://github.com/Saliu40/React-todo-app.git)
-- [Project 11: Built Jenkins Pipeline with Builds saved Using AWS s3Buckets] (https://github.com/Saliu40/Viamagus-Project.git)
-- [Project 12: Ansible Modules Projects] (https://github.com/Saliu40/Ansible-Configuration-Files.git)
-- [Project 13: Creating a complete Core Banking System on AWS using Terraform on AWS] (https://github.com/Saliu40/t2s-bank-terraform.git)
-- [Project 14: A Complete V-Profile Project Using Vagrant] (https://github.com/Saliu40/V-Profile-Project.git)
+⭐ *“Automation and reliability are not just goals — they’re a culture.”*  

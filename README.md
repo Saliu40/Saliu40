@@ -63,7 +63,7 @@ With over **8 years in IT** (including **2+ years as a DevOps Engineer**), I spe
 | **Ansible Modules & Configs** | Collection of Ansible modules for server automation and configuration. | [🔗 View Repo](https://github.com/Saliu40/Ansible-Configuration-Files) |
 | **Core Banking on AWS (Terraform)** | Provisioned core banking infrastructure with Terraform on AWS. | [🔗 View Repo](https://github.com/Saliu40/t2s-bank-terraform) |
 | **V-Profile Project (Vagrant)** | Local environment setup with Vagrant for app simulation. | [🔗 View Repo](https://github.com/Saliu40/V-Profile-Project) |
-| **Configuration Management with Ansible. | [ view Repo](https://github.com/Saliu40/Configuration-Mgt-With-Ansible.git) |
+| **Configuration Management with Ansible** | Using Ansible to Provision Production Env. for software updates. | [ view Repo](https://github.com/Saliu40/Configuration-Mgt-With-Ansible.git) |
 
 ---
 

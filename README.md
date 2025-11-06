@@ -54,7 +54,7 @@ With over **8 years in IT** (including **2+ years as a DevOps Engineer**), I spe
 
 | Project | Description | Repository |
 |----------|--------------|-------------|
-| **AWS Managed Cloud CI/CD Pipeline** | Full CI/CD automation using Bitbucket, AWS S3, SNS, CodeBuild, and CodeArtifact. | [🔗 View Repo](https://github.com/Saliu40/currentJob-vprofile-project) |
+| **AWS Managed Cloud CI/CD Pipeline** | Full CI/CD automation using Bitbucket, AWS S3, SNS, CodeBuild, and CodeArtifact(ci-aws Branch) | [🔗 View Repo](https://github.com/Saliu40/currentJob-vprofile-project) |
 | **DevOps Project: Git + Docker + K8s + Ansible + Jenkins** | End-to-end CI/CD automation project integrating multiple DevOps tools. | [🔗 View Repo](https://github.com/Saliu40/DevOps_Projects) |
 | **Lift & Shift WebApp on AWS** | Migrated monolithic app to AWS cloud using Terraform and EC2. | [🔗 View Repo](https://github.com/Saliu40/currentJob-vprofile-project) |
 | **Kubernetes Cluster Setup (Minikube)** | Local k8s cluster setup and deployment testing environment. | [🔗 View Repo](https://github.com/Saliu40/k8s_deployments) |
@@ -63,6 +63,7 @@ With over **8 years in IT** (including **2+ years as a DevOps Engineer**), I spe
 | **Ansible Modules & Configs** | Collection of Ansible modules for server automation and configuration. | [🔗 View Repo](https://github.com/Saliu40/Ansible-Configuration-Files) |
 | **Core Banking on AWS (Terraform)** | Provisioned core banking infrastructure with Terraform on AWS. | [🔗 View Repo](https://github.com/Saliu40/t2s-bank-terraform) |
 | **V-Profile Project (Vagrant)** | Local environment setup with Vagrant for app simulation. | [🔗 View Repo](https://github.com/Saliu40/V-Profile-Project) |
+| **Configuration Management with Ansible. | [ view Repo](https://github.com/Saliu40/Configuration-Mgt-With-Ansible.git) |
 
 ---
 

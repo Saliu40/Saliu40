@@ -61,7 +61,7 @@ With over **8 years in IT** (including **2+ years as a DevOps Engineer**), I spe
 | **CI/CD Pipeline Automation** | Jenkins-based CI/CD with build artifacts stored in AWS S3. | [🔗 View Repo](https://github.com/Saliu40/Viamagus-Project) |
 | **Terraform Infrastructure Project** | Complete infrastructure provisioning on AWS via Terraform. | [🔗 View Repo](https://github.com/Saliu40/creating_ec2_instance_using_terraform) |
 | **Ansible Modules & Configs** | Collection of Ansible modules for server automation and configuration. | [🔗 View Repo](https://github.com/Saliu40/Ansible-Configuration-Files) |
-| **Core Banking on AWS (Terraform)** | Provisioned core banking infrastructure with Terraform on AWS. | [🔗 View Repo](https://github.com/Saliu40/t2s-bank-terraform) |
+| **CICD Deployment Pipeline Automation(Jenkins)** | Automating GitHub-Jenkins-Maven-Apache Tomcat | [🔗 View Repo](https://github.com/Saliu40/DevOpsClassCodes.git) |
 | **V-Profile Project (Vagrant)** | Local environment setup with Vagrant for app simulation. | [🔗 View Repo](https://github.com/Saliu40/V-Profile-Project) |
 | **Configuration Management with Ansible** | Using Ansible to Provision Production Env. for software updates. | [ view Repo](https://github.com/Saliu40/Configuration-Mgt-With-Ansible.git) |
 

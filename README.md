@@ -54,7 +54,7 @@ With over **8 years in IT** (including **2+ years as a DevOps Engineer**), I spe
 
 | Project | Description | Repository |
 |----------|--------------|-------------|
-| **AWS Managed Cloud CI/CD Pipeline** | Full CI/CD automation using Bitbucket, AWS S3, SNS, CodeBuild, and CodeArtifact(ci-aws Branch) | [🔗 View Repo](https://github.com/Saliu40/currentJob-vprofile-project) |
+| **AWS Managed Cloud CI/CD Pipeline** | Full CI/CD automation using Bitbucket, AWS S3, SNS, CodeBuild, and CodeArtifact(Switch to ci-aws Branch) | [🔗 View Repo](https://github.com/Saliu40/currentJob-vprofile-project) |
 | **End-to-End Bank Application Deployment using DevSecOps on AWS EKS** | A multi-tier bank application written in Java (Springboot) | [🔗 View Repo](https://github.com/Saliu40/BankApp.git) |
 | **DevOps Project: Git + Docker + K8s + Ansible + Jenkins** | End-to-end CI/CD automation project integrating multiple DevOps tools. | [🔗 View Repo](https://github.com/Saliu40/projCert.git) |
 | **Lift & Shift WebApp on AWS** | Migrated monolithic app to AWS cloud using Terraform and EC2. | [🔗 View Repo](https://github.com/Saliu40/currentJob-vprofile-project) |
